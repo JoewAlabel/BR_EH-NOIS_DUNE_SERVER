@@ -1,0 +1,25 @@
+{
+  "settings": [
+    {
+      "section": "/Script/DuneSandbox.InventorySystemSettings",
+      "properties": {
+        "PlayerInventoryStartingVolumeCapacity": "350",
+        "PlayerInventoryStartingSize": "50"
+      }
+    },
+    {
+      "section": "/Script/DuneSandbox.BuildingSettings",
+      "properties": {
+        "m_bBuildingRestrictionLimitsEnabled": "False",
+        "m_MaxNumLandclaimSegments": "60",
+        "m_BuildingBlueprintMaxExtensions": "40"
+      }
+    },
+    {
+      "section": "/Script/DuneSandbox.DuneGameMode",
+      "properties": {
+        "m_InventoryWeightMultiplier": "3.0"
+      }
+    }
+  ]
+}
